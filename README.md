@@ -5,8 +5,8 @@ Repository ini berisi project analisis data yang membahas performa konten Instag
 
 Isi repository ini terdiri dari:
 1. notebook.ipynb – Notebook yang berisi proses analisis data menggunakan Python, mencakup data loading, data cleaning, eksplorasi data, visualisasi, serta analisis statistik.
-2. P0M1_fajar_rachman_dataset.csv – Dataset hasil data cleaning yang digunakan untuk analisis dan pembuatan dashboard.
-3. description.md – Dokumentasi project yang menjelaskan latar belakang, metode, dan output project.
+2. clean_dataset.csv – Dataset hasil data cleaning yang digunakan untuk analisis dan pembuatan dashboard.
+3. README.md – Dokumentasi project yang menjelaskan latar belakang, metode, dan output project.
 
 ## Problem Background
 Instagram merupakan salah satu platform utama yang digunakan oleh brand teknologi untuk menjangkau audiens dan membangun brand awareness. Namun, performa setiap konten yang dipublikasikan dapat sangat bervariasi, baik dari sisi engagement maupun jangkauan. Tanpa analisis berbasis data, sulit bagi brand untuk memahami faktor apa saja yang memengaruhi performa konten serta karakteristik konten yang berpotensi viral. Oleh karena itu, project ini dibuat untuk menganalisis performa konten Instagram brand teknologi secara sistematis dan berbasis data.
